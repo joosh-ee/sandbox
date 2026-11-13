@@ -4,7 +4,7 @@ looking at this and it doesn't make sense, don't worry, that is exactly how I fe
 learning how to build each of these. Everyone starts somewhere right?
 
 ## Projects
-- [Portfolio](portfolio/) - personal portolio page built with HTML & CSS
+- [Portfolio](webpagepractice/portfolio/) - personal portolio page built with HTML & CSS
 
 Link to portfolio (html/css also found within this repo!)
 https://joosh-ee.github.io/sandbox/webpagepractice/portfolio/
